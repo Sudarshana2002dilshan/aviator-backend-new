@@ -1,0 +1,14 @@
+{
+  "name": "aviator-server",
+  "version": "1.0.0",
+  "description": "Aviator Live Game Engine Backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "express": "^4.21.2"
+  }
+}
+
